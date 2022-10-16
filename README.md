@@ -1,6 +1,7 @@
-<video autoplay loop muted plays-inline>
+<!-- <video autoplay loop muted plays-inline>
     <source src="./Media/Banner-2.mp4" type="video/mp4" align="center" width="500">
-</video>
+</video> -->
+![video](E:\Documents\Masai_\Github-Profile\ninja-mono1696\Media\Banner-2.mp4)
 
 <img align="right" alt="coding" width="400" src="./Media/coding-GIF-3.gif" />
 
@@ -41,12 +42,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninja-mono1696&show_icons=true&locale=en&layout=compact" alt="ninja-mono1696" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ninja-mono1696&show_icons=true&locale=en" alt="ninja-mono1696" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ninja-mono1696&show_icons=true&locale=en" alt="ninja-mono1696" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-mono1696&" alt="ninja-mono1696" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninja-mono1696" alt="ninja-mono1696" /></a> </p>
 
-<video autoplay loop muted plays-inline align="center" width="500">
+<!-- <video autoplay loop muted plays-inline align="center" width="500">
     <source src="./Media/Banner-3.mp4" type="video/mp4">
-</video>
+</video> -->
+![video](E:\Documents\Masai_\Github-Profile\ninja-mono1696\Media\Banner-3.mp4)
