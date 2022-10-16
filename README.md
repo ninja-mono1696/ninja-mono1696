@@ -1,5 +1,5 @@
 <video autoplay loop muted plays-inline>
-    <source src="./Media/Banner-2.mp4" type="video/mp4" align="center" width="700">
+    <source src="./Media/Banner-2.mp4" type="video/mp4" align="center" width="500">
 </video>
 
 <img align="right" alt="coding" width="400" src="./Media/coding-GIF-3.gif" />
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/monojit1696" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monojit1696" height="30" width="40" /></a>
 </p>
 
-<h2 align="center"><hr>Languages and Tools<hr></h2>
+<h2 align="center"><hr>Languages and Tools</h2>
 <p align="center"> 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -41,12 +41,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninja-mono1696&show_icons=true&locale=en&layout=compact" alt="ninja-mono1696" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ninja-mono1696&show_icons=true&locale=en" alt="ninja-mono1696" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ninja-mono1696&show_icons=true&locale=en" alt="ninja-mono1696" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-mono1696&" alt="ninja-mono1696" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninja-mono1696" alt="ninja-mono1696" /></a> </p>
 
-<video autoplay loop muted plays-inline align="center" width="700">
-    <source src="./Media/Banner-3.mp4" type="video/mp4" align="center" width="700">
+<video autoplay loop muted plays-inline align="center" width="500">
+    <source src="./Media/Banner-3.mp4" type="video/mp4">
 </video>
