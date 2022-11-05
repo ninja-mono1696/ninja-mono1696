@@ -43,13 +43,11 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninja-mono1696&show_icons=true&locale=en&layout=compact" alt="ninja-mono1696" /></p>
-<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ninja-mono1696&show_icons=true&locale=en&layout=compact" alt="ninja-mono1696" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninja-mono1696&show_icons=true&locale=en" alt="ninja-mono1696" /></p>
-<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ninja-mono1696&show_icons=true&locale=en" alt="ninja-mono1696" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-mono1696&" alt="ninja-mono1696" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-mono1696&" alt="ninja-mono1696" /></p>
 
  <img src="https://activity-graph.herokuapp.com/graph?username=ninja-mono1696&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 
