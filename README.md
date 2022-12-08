@@ -49,7 +49,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ninja-mono1696&" alt="ninja-mono1696" /></p>
 
- <img src="https://activity-graph.herokuapp.com/graph?username=ninja-mono1696&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ninja-mono1696&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="github activity graph"/>
 
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
